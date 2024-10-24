@@ -20,13 +20,12 @@
     </a>  
      <img align="right" height="40px" src="https://komarev.com/ghpvc/?username=sneha-rangole&color=brightgreen" alt="Profile Views" />
     <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img align="right" height="40px" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   
-    
 </p>
 
 <br></br>
 
---- 
+---
+
 ## 🚀 Professional Journey
 <p align="left">
     <img src="https://img.shields.io/badge/Senior_Software_Engineer-Purple_Drive_Technologies-%235f4b8b?style=for-the-badge" alt="Purple Drive Technologies" />
@@ -55,10 +54,8 @@
     <li>Gained expertise in full-stack development and agile methodologies.</li>
 </ul>
 
-<br></br>
+---
 
---- 
-  
 ## 📊 Github Stats
 
 <img align="right" width="45.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-rangole&theme=aura"/>
@@ -92,9 +89,8 @@
 ### Scripting
 <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Scripting-000000?style=for-the-badge&logo=shell&logoColor=white">
 
-<br></br>
-
 --- 
+
 ## 🏆 Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
