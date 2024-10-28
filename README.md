@@ -19,7 +19,7 @@
         <img align="left" src="kaggle.png" alt="Kaggle" width="40px"/>
     </a>  
      <img align="right" height="40px" src="https://komarev.com/ghpvc/?username=sneha-rangole&color=brightgreen" alt="Profile Views" />
-    <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img align="right" height="40px" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/sneha-rangole?tab=repositories"><img align="right" height="40px" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 <br></br>
