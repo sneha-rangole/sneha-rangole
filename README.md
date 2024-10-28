@@ -12,10 +12,10 @@
     <a href="https://www.datascienceportfol.io/sneha_rangole" target="_blank">
         <img align="left" src="portfolio.png" alt="Portfolio" width="40px" />
     </a>
-    <a href="mailto:sneha.rangole@example.com" target="_blank">
+    <a href="mailto:rangole.sneha10@gmail.com" target="_blank">
         <img align="left" src="gmail.png" alt="Email" width="40px"/>
     </a> 
-    <a href="https://www.kaggle.com/sneha-rangole" target="_blank">
+    <a href="https://www.kaggle.com/sneharangole" target="_blank">
         <img align="left" src="kaggle.png" alt="Kaggle" width="40px"/>
     </a>  
      <img align="right" height="40px" src="https://komarev.com/ghpvc/?username=sneha-rangole&color=brightgreen" alt="Profile Views" />
