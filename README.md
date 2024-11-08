@@ -62,13 +62,15 @@
 <a href="https://github-readme-stats.vercel.app">
     <img width="51%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=sneha-rangole&theme=aura&custom_title=GitHub+Stats&hide_border=true"/>
 </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sneha-rangole&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=sneha-rangole&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+ </a>
+
 ## 🔥 My top open source projects
 <p align="left">
   <a href="https://github.com/sneha-rangole/D3js-Document-Cluster-Visualizer"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sneha-rangole&repo=D3js-Document-Cluster-Visualizer&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/sneha-rangole/ECommerceDashboard-UI"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sneha-rangole&repo=ECommerceDashboard-UI&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/sneha-rangole/Flight-Price-Prediction-Using-Random-Forest"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sneha-rangole&repo=Flight-Price-Prediction-Using-Random-Forest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
 
 ## 🛠 Tech Stack
 ### Frontend Development
