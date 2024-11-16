@@ -58,12 +58,12 @@
 
 ## 📊 Github Stats
 
-<img align="right" width="45.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-rangole&theme=aura&hide=HTML,CSS"/>
+<img align="right" width="54%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-rangole&theme=aura&hide=HTML,CSS"/>
 <a href="https://github-readme-stats.vercel.app">
-    <img width="51%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=sneha-rangole&theme=aura&custom_title=GitHub+Stats&hide_border=true"/>
+    <img width="44%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=sneha-rangole&theme=aura&custom_title=GitHub+Stats&hide_border=true"/>
 </a>
 <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=sneha-rangole&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+     <img width="44%" src="https://github-readme-streak-stats.herokuapp.com?user=sneha-rangole&theme=aura&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
  </a>
 
 ## 🔥 My top open source projects
