@@ -1,83 +1,163 @@
-<p align="center"> 
-    <img src="Sneha%20rangole.gif" alt="Sneha Rangole" style="width: 1000px; height: 300px;">
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              SNEHA RANGOLE — GITHUB PROFILE README        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0,50:1976D2,100:42A5F5&amp;height=240&amp;section=header&amp;text=Sneha%20Rangole&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20Senior%20Full-Stack%20Developer&amp;descSize=17&amp;descColor=e3f2fd&amp;descAlignY=57&amp;animation=fadeIn" width="100%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=1976D2&center=true&vCenter=true&width=620&height=42&lines=6%2B+years+%7C+Senior+Software+Engineer;AI+integration+%C2%B7+Web+Apps+%C2%B7+Data+Science;React+%C2%B7+Python+%C2%B7+Flask+%C2%B7+LLMs+%C2%B7+AWS;100x+query+performance+improvement;STEM+OPT+%E2%80%94+Available+for+2026+roles)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-rangole)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sneha-rangole.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sneharangole)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rangole.sneha10@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=sneha-rangole&color=1976D2&style=for-the-badge&label=Profile+Views)](https://github.com/sneha-rangole)
+
+</div>
 
 ---
 
-<p> 
-    <p align="left"><b>Connect with Me</b></p>
-    <a href="https://linkedin.com/in/sneha-rangole" target="_blank">
-        <img align="left" src="linkedin.png" alt="LinkedIn" width="40px"/>
-    </a> 
-    <a href="https://www.datascienceportfol.io/sneha_rangole" target="_blank">
-        <img align="left" src="portfolio.png" alt="Portfolio" width="40px" />
-    </a>
-    <a href="mailto:rangole.sneha10@gmail.com" target="_blank">
-        <img align="left" src="gmail.png" alt="Email" width="40px"/>
-    </a> 
-    <a href="https://www.kaggle.com/sneharangole" target="_blank">
-        <img align="left" src="kaggle.png" alt="Kaggle" width="40px"/>
-    </a>  
-     <img align="right" height="40px" src="https://komarev.com/ghpvc/?username=sneha-rangole&color=brightgreen" alt="Profile Views" />
-    <a href="https://github.com/sneha-rangole?tab=repositories"><img align="right" height="40px" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+## About Me
 
-<br></br>
+**Data Scientist & Senior Full-Stack Developer** with **6+ years of industry experience** building production-grade web applications and integrating AI into real-world systems. I specialize in connecting modern AI - LLMs, RAG pipelines, and ML models directly into full-stack products using React, Python, and Flask, while applying data science and analytics to drive measurable business outcomes.
+
+<br/>
+
+![Boston](https://img.shields.io/badge/📍%20Boston%2C%20MA-0a192f?style=for-the-badge)
+![OPT](https://img.shields.io/badge/✅%20STEM%20OPT%20Active-1a6b2a?style=for-the-badge)
+![Sponsorship](https://img.shields.io/badge/🚫%20No%20Sponsorship%20Required-6A0DAD?style=for-the-badge)
+![Available](https://img.shields.io/badge/🟢%20Immediately%20Available-0f6038?style=for-the-badge)
+
+<br/>
+
+![Degree](https://img.shields.io/badge/M.S.%20Data%20Science-UMass%20Dartmouth-1976D2?style=for-the-badge)
+![Experience](https://img.shields.io/badge/6%2B%20Years-Software%20Engineering-0d47a1?style=for-the-badge)
+![Projects](https://img.shields.io/badge/30%2B%20Projects-Delivered-189AB4?style=for-the-badge)
+![Teams](https://img.shields.io/badge/10%2B%20Teams-Cross--Functional-E25A1C?style=for-the-badge)
 
 ---
 
-## 🚀 Professional Journey
-<p align="left">
-    <img src="https://img.shields.io/badge/Senior_Software_Engineer-Purple_Drive_Technologies-%235f4b8b?style=for-the-badge" alt="Purple Drive Technologies" />
-</p>
-<span><em><b>August 2022</b></em> - <em><b>January 2024</b></em></span>
-<ul>
-    <li>Led software engineering projects, delivering robust and scalable solutions.</li>
-    <li>Enhanced team productivity by implementing efficient development practices.</li>
-</ul>
+## Tech Stack
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Software_Engineer_I-Bentley_Systems-%230040ff?style=for-the-badge" alt="Bentley Systems" />
-</p>
-<span><em><b>April 2020</b></em> - <em><b>June 2022</b></em></span>
-<ul>
-    <li>Developed and optimized software components for large-scale infrastructure projects.</li>
-    <li>Worked closely with cross-functional teams to ensure seamless integration.</li>
-</ul>
+**Languages**
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Associate_Software_Engineer-Bentley_Systems-%230040ff?style=for-the-badge" alt="Bentley Systems" />
-</p>
-<span><em><b>January 2018</b></em> - <em><b>March 2020</b></em></span>
-<ul>
-    <li>Participated in software development cycles, from planning to deployment.</li>
-    <li>Gained expertise in full-stack development and agile methodologies.</li>
-</ul>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logoColor=white)
+
+**AI · ML · Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0078D7?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A800?style=for-the-badge&logoColor=black)
+
+**Full-Stack Engineering**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logoColor=white)
+
+**Cloud · Databases · DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logoColor=black)
+
+**Tools & BI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🔥 My top open source projects
-<p align="left">
-  <a href="https://github.com/sneha-rangole/D3js-Document-Cluster-Visualizer"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sneha-rangole&repo=D3js-Document-Cluster-Visualizer&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/sneha-rangole/ECommerceDashboard-UI"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sneha-rangole&repo=ECommerceDashboard-UI&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/sneha-rangole/Flight-Price-Prediction-Using-Random-Forest"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sneha-rangole&repo=Flight-Price-Prediction-Using-Random-Forest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+## Experience
 
-## 🛠 Tech Stack
-### Frontend Development
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
+### Graduate Research Assistant
+**School for Marine Science & Technology, UMass Dartmouth** &nbsp;·&nbsp; New Bedford, MA &nbsp;·&nbsp; *Sep 2025 – Dec 2025*
 
-### Backend Development
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Unit_Testing-F9D000?style=for-the-badge&logo=jest&logoColor=black"> <img src="https://img.shields.io/badge/API_Development-000000?style=for-the-badge&logo=api&logoColor=white"> <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white"> <img src="https://img.shields.io/badge/OOP_Principles-000000?style=for-the-badge&logo=object-oriented&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+- Owned end-to-end ML lifecycle for ecosystem simulation emulators reducing simulation cycle time by **60%** and enabling real-time scenario evaluation for data-driven fishing policy decisions
+- Engineered production-grade data visualization platform processing **1M+ rows** of marine time-series data using Python, Flask, PostgreSQL, and React; deployed via CI/CD achieving **99.9% uptime**
 
-### Data Visualization & Machine Learning
-<img src="https://img.shields.io/badge/Matplotlib-005C8D?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-4A92B1?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/D3.js-F9A800?style=for-the-badge&logo=d3dotjs&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F25028?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-3E4B8C?style=for-the-badge&logo=xgboost&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+### Data & Reporting Intern
+**University of Massachusetts Dartmouth** &nbsp;·&nbsp; Dartmouth, MA &nbsp;·&nbsp; *Sep 2024 – May 2025*
 
-### Database Management
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Cosmos_DB-0089D6?style=for-the-badge&logo=azurecosmosdb&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_Athena-00B0E4?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white">
+- Designed and deployed interactive Power BI dashboards visualizing student engagement metrics across appointments, placements, and employer outreach for **5,000+ students**
+- Automated ETL pipelines using Python and SQL achieving **98% data accuracy** while reducing manual report generation time by **75%** through scheduled nightly refreshes
 
-### Scripting
-<img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Scripting-000000?style=for-the-badge&logo=shell&logoColor=white">  
+### Senior Software Engineer
+**One Network Enterprises** &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; *Aug 2022 – Jan 2024*
 
-   
-   
-   
+- Led end-to-end development of Trade Finance platform in a regulated financial services domain, translating complex compliance requirements into scalable architecture using React, Java, and MobX
+- Drove **40% higher user engagement** through performance-focused architecture and UX improvements across Supply Chain platforms; mentored junior engineers across distributed teams
+
+### Software Engineer - Associate to Engineer I
+**Bentley Systems** &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; *Jan 2018 – Jun 2022*
+
+- Progressed from Associate to Engineer I delivered cloud-native apps for MicroStation and revamped PlantSight frontend cutting page load times by **3.6 seconds** across global engineering squads
+- Engineered robust CI/CD pipelines, optimized AssetWise database queries at enterprise scale, and led cross-functional integration across infrastructure and product teams
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=sneha-rangole&bg_color=0d1117&color=42A5F5&line=1976D2&point=64B5F6&area=true&area_color=0d2d5e&border_color=1565C0&radius=6&hide_border=false)
+
+</div>
+
+<div align="center">
+
+![stats](https://github-readme-stats.vercel.app/api?username=sneha-rangole&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=42A5F5&icon_color=1976D2&text_color=ccd6f6&border_color=1565C0&count_private=true&hide_border=false&rank_icon=github)&nbsp;&nbsp;![streak](https://streak-stats.demolab.com?user=sneha-rangole&theme=dark&background=0d1117&border=1565C0&stroke=1976D2&ring=42A5F5&fire=42A5F5&currStreakNum=ffffff&sideNums=ccd6f6&currStreakLabel=42A5F5&sideLabels=8b949e&dates=8b949e&hide_border=false)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-rangole)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sneha-rangole.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sneharangole)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rangole.sneha10@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:42A5F5,50:1976D2,100:1565C0&amp;height=110&amp;section=footer" width="100%" />
+
+</div>
