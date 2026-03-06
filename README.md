@@ -143,7 +143,7 @@
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=sneha-rangole&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=42A5F5&icon_color=1976D2&text_color=ccd6f6&border_color=1565C0&count_private=true&hide_border=false&rank_icon=github)&nbsp;&nbsp;![streak](https://streak-stats.demolab.com?user=sneha-rangole&theme=dark&background=0d1117&border=1565C0&stroke=1976D2&ring=42A5F5&fire=42A5F5&currStreakNum=ffffff&sideNums=ccd6f6&currStreakLabel=42A5F5&sideLabels=8b949e&dates=8b949e&hide_border=false)
+![streak](https://streak-stats.demolab.com?user=sneha-rangole&theme=dark&background=0d1117&border=1565C0&stroke=1976D2&ring=42A5F5&fire=42A5F5&currStreakNum=ffffff&sideNums=ccd6f6&currStreakLabel=42A5F5&sideLabels=8b949e&dates=8b949e&hide_border=false)
 
 </div>
 
