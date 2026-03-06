@@ -147,17 +147,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-rangole)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sneha-rangole.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sneharangole)
-[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rangole.sneha10@gmail.com)
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:42A5F5,50:1976D2,100:1565C0&amp;height=110&amp;section=footer" width="100%" />
 
 </div>
